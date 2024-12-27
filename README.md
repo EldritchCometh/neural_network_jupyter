@@ -34,13 +34,6 @@ Here we build tools for visualization and use them to understand how neural netw
 
 The tutorial culminates with a real-world classification task using the MNIST dataset of handwritten digits. The data is loaded, preprocessed, and used to train the network, demonstrating its practical application.
 
-## Features
-
-- Modular code structure for easy understanding and extension.
-- Step-by-step demonstration of key neural network concepts.
-- Clear examples of forward propagation, backpropagation, and gradient descent.
-- Training on real datasets with visualized results.
-
 ## Getting Started
 
 ### Prerequisites
