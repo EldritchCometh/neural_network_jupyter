@@ -78,7 +78,3 @@ The tutorial culminates with a real-world classification task using the MNIST da
 ## License
 
 This is free and unencumbered software released into the public domain.
-
----
-
-Happy learning! If you have any questions or need further clarification, feel free to reach out.
