@@ -1,6 +1,6 @@
 # Neural Networks: Building Deep Understanding
 
-This project is a tutorial designed to help learners understand the step-by-step process of building a neural network from scratch. The implementation is highly modular, emphasizing simplicity and clarity over optimization. The goal is to provide an approachable guide for individuals looking to grasp the fundamental concepts of neural networks and their components through Python code.
+This is a tutorial designed to help learners build deep understanding of neural networks by building one step-by-step from scratch. But, it's more than that. This implementation was painstakingly hand crafted to be the ultimate educational tool. Simplicity, clarity modularity are radically prioritized. The goal is to provide an approachable guide for individuals looking to grasp the fundamental concepts of neural networks and their components through Python code.
 
 ## Project Structure
 
@@ -20,15 +20,15 @@ This section covers part of the backpropagation algorithm, explaining how to qua
 
 ### **Part 04: Gradient Descent**
 
-Gradient descent is introduced as the optimization algorithm for updating weights in the network.&#x20;
+Gradient descent is introduced as the optimization algorithm for updating parameters in the network.&#x20;
 
 ### **Part 05: Training and Metrics**
 
-This part covers training the neural network on a dataset and calculating performance metrics.
+This part covers training the neural network on small toy datasets and exploring how performance metrics are calculated.
 
 ### **Part 06: Visualization**
 
-Visualization techniques are demonstrated by plotting data and functions to observe their alignment, providing insights into how the network represents relationships in the data.
+Here we build tools for visualization and use them to understand how neural networks model real-world data as a function that can be trained and plotted against the data.
 
 ### **Part 07: A Real Classification Task**
 
@@ -37,7 +37,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
 ## Features
 
 - Modular code structure for easy understanding and extension.
-- Step-by-step explanations of key neural network concepts.
+- Step-by-step demonstration of key neural network concepts.
 - Clear examples of forward propagation, backpropagation, and gradient descent.
 - Training on real datasets with visualized results.
 
@@ -48,7 +48,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
 - Python 3.x
 - Jupyter Notebook
 - scikit-learn
-- Matplotlib
+- Matplotlibz
 
 ### Installation
 
@@ -69,7 +69,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
 1. Launch Jupyter Notebook:
 
    ```bash
-   jupyter notebook
+   jupyter lab
    ```
 
 2. Open the notebooks in the order of their filenames (Part 01 to Part 07).
