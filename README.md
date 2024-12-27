@@ -48,7 +48,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
 - Python 3.x
 - Jupyter Notebook
 - scikit-learn
-- Matplotlibz
+- Matplotlib
 
 ### Installation
 
@@ -64,6 +64,14 @@ The tutorial culminates with a real-world classification task using the MNIST da
    cd <project-directory>
    ```
 
+3. Install requirements.txt:
+
+   ```bash
+   python3 -m venv venv
+   source /venv/bin/activate
+   pip install -r requirements.txt
+   ```
+
 ## Usage
 
 1. Launch Jupyter Notebook:
@@ -72,15 +80,12 @@ The tutorial culminates with a real-world classification task using the MNIST da
    jupyter lab
    ```
 
-2. Open the notebooks in the order of their filenames (Part 01 to Part 07).
-
-3. Follow the instructions in each notebook to implement and experiment with the neural network.
+2. Study, run, and expiriment with the notebooks in the order of their filenames (Part 01 to Part 07).
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This is free and unencumbered software released into the public domain.
 
 ---
 
 Happy learning! If you have any questions or need further clarification, feel free to reach out.
-
