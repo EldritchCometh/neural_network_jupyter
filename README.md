@@ -1,6 +1,6 @@
 # Neural Networks: Building Deep Understanding
 
-This is a tutorial designed to help learners build deep understanding of neural networks by building one step-by-step from scratch. But, it's more than that. This implementation was painstakingly hand crafted to be an educational tool. Simplicity, clarity modularity are radically prioritized. The goal is to provide an approachable guide for individuals looking to grasp the fundamental concepts of neural networks and their components through Python code.
+This is a tutorial designed to help learners build deep understanding of neural networks by building one step-by-step from scratch. But, it's more than that. This implementation was painstakingly hand crafted to be an educational tool. Simplicity, clarity modularity are radically prioritized. Despite this, the final project tackles a real-world classification task, delivering respectable results.
 
 ## Project Structure
 
