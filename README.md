@@ -1,6 +1,6 @@
 # Neural Networks: Building Deep Understanding
 
-This is a tutorial designed to help learners build deep understanding of neural networks by building one step-by-step from scratch. But, it's more than that. This implementation was painstakingly hand crafted to be an educational tool. Simplicity, clarity modularity are radically prioritized. Despite this, the final project tackles a real-world classification task, delivering respectable results.
+This is a tutorial designed to help learners build deep understanding of neural networks by building one step-by-step from scratch. But, it's more than that. This implementation was painstakingly hand crafted to be an educational tool. Simplicity, clarity modularity are radically prioritized. Despite this, the final project tackles a real-world classification task, delivering some pretty respectable results.
 
 ## Project Structure
 
