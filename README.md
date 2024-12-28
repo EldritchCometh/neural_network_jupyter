@@ -14,27 +14,27 @@ The project is divided into seven parts. Each part builds upon the previous ones
 
 This part focuses on the physical structure of the network. It defines a framework that simplifies future challenges by abstracting away concerns about the overall shape of the network, allowing us to focus on individual nodes and their local relationships with neighbors.
 
-### **Part 02: Forward Propagation**
+#### **Part 02: Forward Propagation**
 
 Here, forward propagation is implemented to demonstrate how inputs pass through the network to produce outputs. The mechanics of weighted sums and activation functions are explored.
 
-### **Part 03: Backpropagating Error Signal**
+#### **Part 03: Backpropagating Error Signal**
 
 This section covers part of the backpropagation algorithm, explaining how to quantify each node's impact on the total error by propagating error contributions backward through the network.
 
-### **Part 04: Gradient Descent**
+#### **Part 04: Gradient Descent**
 
 Gradient descent is introduced as the optimization algorithm for updating parameters in the network.&#x20;
 
-### **Part 05: Training and Metrics**
+#### **Part 05: Training and Metrics**
 
 This part covers training the neural network on small toy datasets and exploring how performance metrics are calculated.
 
-### **Part 06: Visualization**
+#### **Part 06: Visualization**
 
 Here we build tools for visualization and use them to understand how neural networks model real-world data as a function that can be trained and plotted against the data.
 
-### **Part 07: A Real Classification Task**
+#### **Part 07: A Real Classification Task**
 
 The tutorial culminates with a real-world classification task using the MNIST dataset of handwritten digits. The data is loaded, preprocessed, and used to train the network, demonstrating its practical application.
 
@@ -42,14 +42,14 @@ The tutorial culminates with a real-world classification task using the MNIST da
 
 ### **Recommended installation with venv**
 
-### Prerequisites
+#### Prerequisites
 
 - git
 - python3
 - python3-pip
 - python3-venv
 
-### Installation
+#### Installation
 
 1. Clone the repository to your local machine:
 
@@ -73,13 +73,13 @@ The tutorial culminates with a real-world classification task using the MNIST da
 
 ### **Optional installation without venv**
 
-### Prerequisites
+#### Prerequisites
 
 - git
 - python3
 - python3-pip
 
-### Installation
+#### Installation
 
 1. Clone the repository to your local machine:
 
