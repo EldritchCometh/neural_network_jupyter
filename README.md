@@ -40,26 +40,27 @@ The tutorial culminates with a real-world classification task using the MNIST da
 
 ## Getting Started
 
+### **Recommended installation with venv**
+
 ### Prerequisites
 
+- git
 - python3
+- python3-pip
 - python3-venv
-- jupyter-lab
-- scikit-learn
-- matplotlib
 
 ### Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/EldritchCometh/neural_network_jupyter.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project-directory>
+   cd neural_network_jupyter
    ```
 
 3. Install requirements.txt:
@@ -67,6 +68,34 @@ The tutorial culminates with a real-world classification task using the MNIST da
    ```bash
    python3 -m venv venv
    source venv/bin/activate
+   pip install -r requirements.txt
+   ```
+
+### **Optional installation without venv**
+
+### Prerequisites
+
+- git
+- python3
+- python3-pip
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/EldritchCometh/neural_network_jupyter.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd neural_network_jupyter
+   ```
+
+3. Install requirements.txt:
+
+   ```bash
    pip install -r requirements.txt
    ```
 
