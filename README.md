@@ -4,7 +4,7 @@ This tutorial is designed to help learners build deep understanding of neural ne
 
 Network components are defined as objects and prewired so they have, as attributes in themselves, all of the correct connections to their neihbors. From this foundation methos related to the training and operation of the network are defined inside of the network componenets themselves without any required knowledge of the larger state of the network being required of those components. In this way a focus and enfacis can be placed on invidual network components and their local role in the operation of the larger structure. From this bottom up approach a clearer understanding of the funcioning of the network as a whole can be obtained. 
 
-It may occur to you that this sounds like we are trading a great deal of performance and optimization in exhchange for previously mentioned considerations. You would be correct. However, despite this, the final part tackles a real-world classification task, delivering some pretty respectable results.
+It may occur to you that this sounds like we are trading a great deal of performance and optimization in exhchange for previously mentioned considerations. We are, however, despite this, the final part tackles a real-world classification task, delivering some pretty respectable results.
 
 ## Project Structure
 
