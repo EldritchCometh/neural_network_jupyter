@@ -10,7 +10,7 @@ It may seem that we’re sacrificing a considerable degree of performance and op
 
 The project is divided into seven parts. Each part builds upon the previous ones to incrementally construct a fully functional neural network capable of solving real-world classification tasks.
 
-### **Part 01: Wiring Up the Network**
+#### **Part 01: Wiring Up the Network**
 
 This part focuses on the physical structure of the network. It defines a framework that simplifies future challenges by abstracting away concerns about the overall shape of the network, allowing us to focus on individual nodes and their local relationships with neighbors.
 
