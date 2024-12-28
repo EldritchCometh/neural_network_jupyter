@@ -67,13 +67,13 @@ The tutorial culminates with a real-world classification task using the MNIST da
 
 ## Usage
 
-1. Launch Jupyter Notebook:
+1. Launch Jupyter Lab:
 
    ```bash
    jupyter lab
    ```
 
-2. Study, run, and expiriment with the notebooks in the order of their filenames (Part 01 to Part 07).
+2. Study, run, and expiriment with the notebooks in the order from Part 01 to Part 07.
 
 ## License
 
