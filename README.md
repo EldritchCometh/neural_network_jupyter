@@ -61,7 +61,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
 
    ```bash
    python3 -m venv venv
-   source /venv/bin/activate
+   source venv/bin/activate
    pip install -r requirements.txt
    ```
 
