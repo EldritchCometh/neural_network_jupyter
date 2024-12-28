@@ -1,10 +1,10 @@
 # Neural Networks: Building Deep Understanding
 
-This tutorial is designed to help learners build deep understanding of neural networks by building one step-by-step from scratch. This implementation was hand crafted to be the most effetive educational tool I am capable of making.
+This tutorial is designed to help learners gain a deep understanding of neural networks by building one from scratch. The implementation has been carefully crafted to serve as the most effective educational tool I know how to provide.
 
-Network components are defined as objects and prewired so they have, as attributes in themselves, all of the correct connections to their neihbors. From this foundation methos related to the training and operation of the network are defined inside of the network componenets themselves without any required knowledge of the larger state of the network being required of those components. In this way a focus and enfacis can be placed on invidual network components and their local role in the operation of the larger structure. From this bottom up approach a clearer understanding of the funcioning of the network as a whole can be obtained. 
+In this tutorial, network components are defined as objects that carry, as attributes, all necessary connections to their neighboring components. Building on this foundation, methods related to training and operation are housed within each component itself, eliminating any need for awareness of the broader state of the network. This bottom-up approach allows us to conceptualize the network’s functioning as a set of discrete local operations, clarifying the networks operation as a whole.
 
-It may occur to you that this sounds like we are trading a great deal of performance and optimization in exhchange for previously mentioned considerations. We are, however, despite this, the final part tackles a real-world classification task, delivering some pretty respectable results.
+It may seem that we’re sacrificing a considerable degree of performance and optimization for the sake of these educational considerations. While that’s true, we will still achieve respectable results when we tackle a real-world classification task in the final section.
 
 ## Project Structure
 
@@ -12,7 +12,7 @@ The project is divided into seven parts. Each part builds upon the previous ones
 
 ### **Part 01: Wiring Up the Network**
 
-This part focuses on the physical structure of the network. It defines a framework that simplifies future challenges by abstracting away concerns about the overall shape of the network, allowing us to focus on individual nodes and their local relationships with neighbors. 
+This part focuses on the physical structure of the network. It defines a framework that simplifies future challenges by abstracting away concerns about the overall shape of the network, allowing us to focus on individual nodes and their local relationships with neighbors.
 
 ### **Part 02: Forward Propagation**
 
@@ -20,7 +20,7 @@ Here, forward propagation is implemented to demonstrate how inputs pass through 
 
 ### **Part 03: Backpropagating Error Signal**
 
-This section covers part of the backpropagation algorithm, explaining how to quantify each node's impact on the total error by propagating error contributions backward through the network.&#x20;
+This section covers part of the backpropagation algorithm, explaining how to quantify each node's impact on the total error by propagating error contributions backward through the network.
 
 ### **Part 04: Gradient Descent**
 
