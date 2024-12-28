@@ -40,7 +40,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
 
 ## Getting Started
 
-### **Recommended installation with venv**
+### **Installation With Venv (Recommended)**
 
 #### Prerequisites
 
@@ -71,7 +71,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
    pip install -r requirements.txt
    ```
 
-### **Optional installation without venv**
+### **Installation Without Venv (Optional)**
 
 #### Prerequisites
 
