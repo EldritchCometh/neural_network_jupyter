@@ -42,11 +42,11 @@ The tutorial culminates with a real-world classification task using the MNIST da
 
 ### Prerequisites
 
-- Python 3.x
-- Python3-venv
-- Jupyter Notebook
+- python3
+- python3-venv
+- jupyter-lab
 - scikit-learn
-- Matplotlib
+- matplotlib
 
 ### Installation
 
