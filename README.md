@@ -4,7 +4,7 @@ This tutorial is designed to help learners gain a deep understanding of neural n
 
 In this tutorial, network components are defined as objects that include, as attributes, all necessary connections to their neighboring components. Methods related to training and operation are housed within each component itself. In this design, local components need no awareness of the broader state of the network. This bottom-up approach allows us to conceptualize the network’s functioning as a set of discrete local operations, then build an understanding of the whole from these compartmentalized parts. This approach really helped demystify this admittedly complex function for me.
 
-It may seem that doing it this way would sacrafice a considerable degree of performance and optimization. That's true, it does. However, we will still achieve respectable results when we tackle a real-world classification task in the final section.
+It may seem that doing it this way sacrifices a considerable degree of performance and optimization for educational considerations. That’s true—it does. However, we will still achieve respectable results when tackling a real-world classification task in the final section.
 
 ## Project Structure
 
