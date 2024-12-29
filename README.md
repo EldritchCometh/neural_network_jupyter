@@ -1,10 +1,10 @@
 # Neural Networks: Building Deep Understanding
 
-This tutorial is designed to help learners gain a deep understanding of neural networks by building one from scratch. The implementation has been carefully crafted to serve as the most effective educational tool I know how to provide.
+This tutorial is designed to help learners gain a deep understanding of neural networks. This implementation has been deliberately crafted to serve as the most effective educational tool I know how to create.
 
-In this tutorial, network components are defined as objects that carry, as attributes, all necessary connections to their neighboring components. Building on this foundation, methods related to training and operation are housed within each component itself, eliminating any need for awareness of the broader state of the network. This bottom-up approach allows us to conceptualize the network’s functioning as a set of discrete local operations, clarifying the networks operation as a whole.
+In this tutorial, network components are defined as objects that include, as attributes, all necessary connections to their neighboring components. Methods related to training and operation are housed within each component itself. In this design, local components need no awareness of the broader state of the network. This bottom-up approach allows us to conceptualize the network’s functioning as a set of discrete local operations, then build an understanding of the whole from these compartmentalized parts. This approach really helped demystify this admittedly complex function for me.
 
-It may seem that we’re sacrificing a considerable degree of performance and optimization for the sake of these educational considerations. While that’s true, we will still achieve respectable results when we tackle a real-world classification task in the final section.
+It may seem that doing it this way would sacrafice a considerable degree of performance and optimization. That's true, it does. However, we will still achieve respectable results when we tackle a real-world classification task in the final section.
 
 ## Project Structure
 
