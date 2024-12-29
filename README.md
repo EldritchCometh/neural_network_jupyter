@@ -1,6 +1,6 @@
 # Neural Networks: Building Deep Understanding
 
-This tutorial is designed to help learners gain a deep understanding of neural networks. This implementation has been deliberately crafted to serve as the most effective educational tool I know how to create.
+This tutorial is designed to help learners gain a deep understanding of neural networks. This implementation has been delibarately crafted to serve as the best educational tool.
 
 In this tutorial, network components are defined as objects that include, as attributes, all necessary connections to their neighboring components. Methods related to training and operation are housed within each component itself. In this design, local components need no awareness of the broader state of the network. This bottom-up approach allows us to conceptualize the network’s functioning as a set of discrete local operations, then build an understanding of the whole from these compartmentalized parts. This approach really helped demystify this admittedly complex function for me.
 
