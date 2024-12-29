@@ -79,7 +79,7 @@ The tutorial culminates with a real-world classification task using the MNIST da
    jupyter lab
    ```
 
-2. Study, run, and expiriment with the notebooks in the order from Part 01 to Part 07.
+2. Study, run, and expiriment with the notebooks in the order from parts 1 to 7.
 
 ## License
 
