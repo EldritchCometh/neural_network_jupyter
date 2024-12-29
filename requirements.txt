@@ -1,3 +1,3 @@
-jupyterlab
+jupyter
 scikit-learn
 matplotlib
